@@ -4,7 +4,7 @@
 Untuk memanggil fungsi dengan nama "os".
 
     import os
-Membuat class data_mhsw dengan atributnya, yaiutu nama, nim, tugas, uts, dan uas.
+Membuat class data_mhsw dengan atributnya, yaitu nama, nim, tugas, uts, dan uas.
 
     class data_mhsw:
         nama=""
@@ -15,7 +15,7 @@ Membuat class data_mhsw dengan atributnya, yaiutu nama, nim, tugas, uts, dan uas
 Membuat variabel data = [] untuk menampung list dari data_mhsw.
 
     data = []
-Membuat fungsi tambahan jika diperlukan fun gsi tersebut akan dipanggil oleh program.
+Membuat fungsi tambahan jika diperlukan fungsi tersebut akan dipanggil oleh program.
 
     def no_data():
         print("DAFTAR NILAI MAHASISWA")
@@ -45,7 +45,7 @@ Jika sebelumnya sudah menginput data, maka data sudah diinputkan akan di tampilk
 
 Menambahkan data (Tambah())
 Menginput NIM, NAMA, Nilai Tugas, Nilai UTS, Nilai UAS.
-Jika data sudah diinpit akan ditambahkan kedalam variabel data.
+Jika data sudah diinput akan ditambahkan kedalam variabel data.
 
     def tambah():
         os.system("cls")
