@@ -3,7 +3,7 @@
 ### Kelas:TI 22 A3
 #### Membuat program menampilkan data menggunakan class di Python
 #### Berikut Flowchartnya
-1[Flowchart](/flowchart.png)
+![Flowchart](/flowchart.png)
 
 #### Berikut Tutorial singkatnya
 Untuk memanggil fungsi dengan nama "os".
